@@ -3,11 +3,11 @@
 
 This guide will walk you through the steps to set up an ESP32-based CO2 meter using the Z19E sensor that displays readings on an integrated OLED screen and integrates with Home Assistant.
 
-I used the Hefddehy [Z19E IR Infrared CO2 Sensor](https://amzn.eu/d/8lvjU5Q) which I bought on Amazon for ~20 Euro.
+- I used the Hefddehy [Z19E IR Infrared CO2 Sensor](https://amzn.eu/d/8lvjU5Q) which I bought on Amazon for ~20 Euro.
 
 ![Z19E](./images/Z19E.png)
 
-I used a breadboard to start but will move it into a project box later.
+- I used a breadboard to start but will move it into a project box later.
 
 ![Prototype](./images/prototype.jpeg)
 
@@ -61,7 +61,7 @@ You can view and download the Home Assistant configuration [here](./config/home_
 - **Monitor the OLED**: The OLED display should show the current CO2 PPM reading along with the IP address of the ESP32.
 - **Check Home Assistant**: Ensure that the CO2 reading is being correctly pulled into Home Assistant and displayed in the UI.
 
-It should look something like this when you're done:
+- It should look something like this when you're done:
 
 ![Result](./images/result.png)
 
