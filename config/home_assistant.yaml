@@ -1,5 +1,6 @@
 sensor:
   - platform: rest
+    scan_interval: 30
     resource: http://<esp32-ip>/co2
     name: "CO2 Sensor"
     unique_id: "co2_sensor_esp32"
