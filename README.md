@@ -9,8 +9,6 @@ I used a breadboard to start but will move it into a project box later.
 
 ![Prototype](./images/prototype.jpeg)
 
-## Final Result
-
 ## Step-by-Step Instructions
 
 ### 1. **Hardware Setup**
