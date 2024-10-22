@@ -13,7 +13,7 @@ This guide will walk you through the steps to set up an ESP32-based CO2 meter us
 
 ## Step-by-Step Instructions
 
-### Pre-requisit Steps
+### Prerequisite Steps
 
 - Install the ESP32 Board software, for the Heltec 32 V3 steps can be found [here](https://github.com/HelTecAutomation/Heltec_ESP32).
 
